@@ -24,7 +24,7 @@ public class IngredientParameterizedPositiveTest {
         return new Object[][]{
                 {SAUCE, "cheese", 10},
                 {FILLING, "", 10},
-                {SAUCE, "garlic", -29454},
+                {SAUCE, "garlicНуОооооооооооооооооооооооооочччччччччччччччччччччччччччччченьмногоБукавQWErty!%^*@", -29454},
                 {FILLING, "", 846548384.98f}
         };
     }

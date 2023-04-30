@@ -15,7 +15,7 @@ public class GetReceiptTest {
     private final Burger burger = new Burger();
 
     @Test
-    public void getPriceTest(){
+    public void getReceiptTest(){
         burger.setBuns(getBun());
         burger.addIngredient(getIngredient().get(0));
         burger.addIngredient(getIngredient().get(1));
