@@ -2,7 +2,7 @@
 
 ## Включает в себя следующие тесты:
 ### 1. package BurgerTests:
-- **BurgerTest** - тесты для void методов класса Burger:
+- **burgers** - тесты для void методов класса Burger:
   - _setBuns_;
   - _addIngredient_;
   - _removeIngredient_;
